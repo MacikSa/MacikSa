@@ -3,4 +3,4 @@
 
 
 ## Languages and Tools that I've touched already or I will:
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer">
