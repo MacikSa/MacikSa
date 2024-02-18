@@ -1,6 +1,7 @@
 # Hi👋, I'm Piotr
 
 👨‍💻**Currently learning: C++, MySQL**
+
 🎓**I study at Opole University of Technology**
 
 **Languages and tools I have used:**
